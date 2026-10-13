@@ -29,9 +29,9 @@ I first built the test against the public [Restful API](https://api.restful-api.
 
 The whole run took about 49 seconds, with an overall throughput of about 8.3 requests per second.
 
-![JMeter statistics table](docs/statistics.png)
+![JMeter statistics table](docs/statistics.jpg)
 
-![JMeter console summary](docs/summary.png)
+![JMeter console summary](docs/summary.jpg)
 
 ## How to read these results
 
